@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Happy 20th</string>
+    <string name="score">Score 0/8</string>
+    <string name="question_number"> 1/8 Questions</string>
+
+    <string name="question1">What tech is used to make telephonw calls over internet</string>
+    <string name="question1_A">Bluetooth</string>
+    <string name="question1_B">Ethernet</string>
+    <string name="question1_C">NFC</string>
+    <string name="question1_D">VoIP</string>
+    <string name="answer_1">VoIP</string>
+
+    <string name="question2">Which computer langauge is most widely used?</string>
+    <string name="question2_A">C#</string>
+    <string name="question2_B">Swift</string>
+    <string name="question2_C">PHP</string>
+    <string name="question2_D">Java</string>
+    <string name="answer_2">Java</string>
+
+    <string name="question3">which of the following is an important step towards paperless concept </string>
+    <string name="question3_A">Digitalisation</string>
+    <string name="question3_B">ratonal</string>
+    <string name="question3_C">downlaoding</string>
+    <string name="question3_D">Digitalizing</string>
+    <string name="answer_3">Digitalizing</string>
+
+    <string name="question4">how much data exist in digital universe today?</string>
+    <string name="question4_A">40gb</string>
+    <string name="question4_B">40tb</string>
+    <string name="question4_C">40mb</string>
+    <string name="question4_D">40zb</string>
+    <string name="answer_4">40zb</string>
+
+    <string name="question5">file format?</string>
+    <string name="question5_A">pdf</string>
+    <string name="question5_B">Jpeg</string>
+    <string name="question5_C">MP3</string>
+    <string name="question5_D">Zip</string>
+    <string name="answer_5">Jpeg</string>
+
+    <string name="question6">what is our natural moon</string>
+    <string name="question6_A">moon</string>
+    <string name="question6_B">sun</string>
+    <string name="question6_C">mercury</string>
+    <string name="question6_D">venus</string>
+    <string name="answer_6">moon</string>
+
+    <string name="question7">favourite food?</string>
+    <string name="question7_A">pizza</string>
+    <string name="question7_B">chole</string>
+    <string name="question7_C">nan</string>
+    <string name="question7_D">burger</string>
+    <string name="answer_7">chole</string>
+
+    <string name="question8">how is todays weather</string>
+    <string name="question8_A">sunny</string>
+    <string name="question8_B">rainy</string>
+    <string name="question8_C">mosit</string>
+    <string name="question8_D">cold</string>
+    <string name="answer_8">sunny</string>
+    <string name="selectedoption">SelectedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+</resources>
